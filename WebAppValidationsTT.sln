@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppValidationsTT", "WebAppValidationsTT\WebAppValidationsTT.csproj", "{B5465ABE-7E50-45F8-9E70-38543CB0E6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_WebApiValidation", "WebApplication_WebApiValidation\WebApplication_WebApiValidation.csproj", "{31EBD450-E6DB-48AA-9509-A62FBE36DBB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5465ABE-7E50-45F8-9E70-38543CB0E6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5465ABE-7E50-45F8-9E70-38543CB0E6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5465ABE-7E50-45F8-9E70-38543CB0E6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5465ABE-7E50-45F8-9E70-38543CB0E6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EBD450-E6DB-48AA-9509-A62FBE36DBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EBD450-E6DB-48AA-9509-A62FBE36DBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EBD450-E6DB-48AA-9509-A62FBE36DBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EBD450-E6DB-48AA-9509-A62FBE36DBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A96AEB5-9F87-4F20-9E17-9A334AA91EFD}
+	EndGlobalSection
+EndGlobal
